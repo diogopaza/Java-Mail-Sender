@@ -1,1 +1,2 @@
-# Java-Mail-Sender
+# Enviando Emails com Spring
+
